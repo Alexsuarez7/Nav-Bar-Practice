@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<div class="agrupador">
+	<head lang="en">
+		<title>Mi nuevo blog</title>
+		<meta name="description" content="pagina de prueba" />
+		<link href="style.css" rel="stylesheet" />
+		
+	</head>
+	
+	<body>
+		<header class="cabecera">
+			<h1>Esto es un blog cristiano</h1>
+			<h6>Que ondaaaaaa????</h6>
+		</header>
+		
+		<nav>
+		<div class="contenedor">
+			<ul class="minimenu">
+				<li><a href= "#">Modelo de Biblia</a>
+					<ul>
+						<li><a href= "#">Moderna</a></li>
+						<li><a href= "#">Antigua</a></li>
+						<li><a href= "#">Mixta</a></li>
+					</ul>
+				</li>
+				<li><a href= "#">Version de Biblia</a>
+					<ul>
+						<li><a href= "#">RV1960</a></li>
+						<li><a href= "#">NTV</a></li>
+						<li><a href= "#">DHH</a></li>
+					</ul>	
+				</li>
+				<li><a href= "#">Capitulo</a>
+					<ul>
+						<li><a href= "#">capitulo 1</a></li>
+						<li><a href= "#">Capitulo 2</a></li>
+						<li><a href= "#">Capitulo 3</a></li>
+					</ul>	
+				</li>
+				<li><a href= "#">Versiculo</a>
+					<ul>
+						<li><a href= "#">Versiculo 1</a></li>
+						<li><a href= "#">Versiculo 2</a></li>
+					</ul>	
+				</li>
+			</ul>
+		</div>
+		</nav>
+		<hr>
+			
+		<section class="principal">
+			<article>
+				<h2>Esto es para probar</h2>
+				<h4>tengo un subtitulo</h4>
+				<time datetime="28-01-2011">Publicado el 28-10-2011</time>
+				<p>Esto es un articulo escrito por un escritor que es 
+				muy pro al momento de escribir por eso no uso ni comas
+				ni nada de eso porque no era necesario</p>
+				<footer class="comentario">Comentarios (10)</footer>
+			</article>
+			
+			<article>
+				<h2>Esto es para seguir probando</h2>
+				<h4>Tengo otro subtitulo</h4>
+				<time datetime="29-10-2010">Publicado el 29-10-2010</time>
+				<p>Esto es necesairo para probar la idstribucion de una
+				pagina web y sigo sin usar comas ni nada porque no me
+				importa soy solo un escritor con algunos errores 
+				ortograficos pero esto es solo de prueba asi que naaa</p>
+				<footer class="comentario">Comentarios (40)</footer>
+			</article>
+		</section>
+		
+		<aside class="lateral">
+			<cite>
+				acerca de:
+			</cite>
+			
+			<cite>
+				Hablamos de:
+			</cite>
+		</aside>
+		
+		<footer class="cierre">
+			Derechos de Alexsuarez7 2000-3000
+		</footer>
+	</body>
+</div>
+</html>
